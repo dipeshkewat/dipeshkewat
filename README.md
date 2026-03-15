@@ -1,17 +1,12 @@
 👋 **About Me**
 
 Hi, I'm **Dipesh Mangaru Kewat** — a 3rd-year Computer Engineering student passionate about building real-world tech solutions.
-
 💻 I enjoy developing **full-stack applications**, experimenting with **AI/ML systems**, and turning ideas into practical software products.
-
 🚀 I like working on projects that combine **mobile apps, backend systems, and machine learning** to solve practical problems.
-
 🛠 **Tech I work with:**
 Flutter • Node.js • Express.js • FastAPI • MongoDB • Python • Scikit-learn • REST APIs
-
 📚 **Currently learning:**
 Machine Learning systems, recommendation algorithms, and scalable backend architecture.
-
 📫 **Contact:** [dipeshkewat.tech@gmail.com](mailto:dipeshkewat.tech@gmail.com)
 
 
