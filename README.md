@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi, I'm Dipesh Kewat, a passionate 3rd-year engineering student with a keen interest in web development and AI. I have experience working with HTML, CSS, JavaScript, and Bootstrap, enabling me to create responsive and user-friendly websites.<br><br>Recently, I completed an internship as a Junior AI Trainee at Compozent, where I gained hands-on experience in AI training processes and machine learning concepts. This experience encouraged my curiosity for AI and its real-world applications. I'm always eager to learn, explore new technologies. Looking forward to connecting with like-minded professionals and growing in the tech industry!
+👋 **About Me**
+
+Hi, I'm **Dipesh Mangaru Kewat** — a 3rd-year Computer Engineering student passionate about building real-world tech solutions.
+
+💻 I enjoy developing **full-stack applications**, experimenting with **AI/ML systems**, and turning ideas into practical software products.
+
+🚀 I like working on projects that combine **mobile apps, backend systems, and machine learning** to solve practical problems.
+
+🛠 **Tech I work with:**
+Flutter • Node.js • Express.js • FastAPI • MongoDB • Python • Scikit-learn • REST APIs
+
+📚 **Currently learning:**
+Machine Learning systems, recommendation algorithms, and scalable backend architecture.
+
+📫 **Contact:** [dipeshkewat.tech@gmail.com](mailto:dipeshkewat.tech@gmail.com)
+
 
 
 ## 🌐 Socials:
