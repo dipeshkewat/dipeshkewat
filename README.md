@@ -5,7 +5,13 @@
 
 <br>🧠 I am particularly interested in **Artificial Intelligence, Recommendation Systems, and Backend Architecture**. I enjoy learning how data and algorithms can be used to build smarter applications.<br>
 
-<br>📚 **Currently Learning**<br><br>* Machine Learning systems and model deployment<br>* Recommendation algorithms<br>* Backend system design and API architecture<br>* Building scalable full-stack applications<br><br>🚧 **Projects I'm working on**<br><br>* **Internship Recommendation System** — an AI-powered system that recommends internships to students based on their skills, CGPA, interests, and location preferences.<br>* Exploring **AI-powered applications** and intelligent tools that help users make better decisions.<br><br><br>📫 **Contact**<br>* Email: **[dipeshkewat.m@gmail.com](mailto:dipeshkewat.tech@gmail.com)**<br>
+<br>📚 **Currently Learning**<br>
+<br>* Machine Learning systems and model deployment<br>
+* Recommendation algorithms<br>
+* Backend system design and API architecture<br>
+* Building scalable full-stack applications<br>
+
+<br>📫 **Contact**<br>* Email: **[dipeshkewat.m@gmail.com](mailto:dipeshkewat.tech@gmail.com)**<br>
 
 
 ## 🌐 Socials:
