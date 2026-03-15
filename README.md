@@ -1,13 +1,39 @@
 👋 **About Me**
 
 Hi, I'm **Dipesh Mangaru Kewat** — a 3rd-year Computer Engineering student passionate about building real-world tech solutions.
+
 💻 I enjoy developing **full-stack applications**, experimenting with **AI/ML systems**, and turning ideas into practical software products.
-🚀 I like working on projects that combine **mobile apps, backend systems, and machine learning** to solve practical problems.
-🛠 **Tech I work with:**
-Flutter • Node.js • Express.js • FastAPI • MongoDB • Python • Scikit-learn • REST APIs
-📚 **Currently learning:**
-Machine Learning systems, recommendation algorithms, and scalable backend architecture.
-📫 **Contact:** [dipeshkewat.tech@gmail.com](mailto:dipeshkewat.tech@gmail.com)
+
+🚀 I enjoy working on projects that combine **mobile development, backend systems, and machine learning** to create intelligent and scalable applications. I like exploring how technology can solve real-world problems and improve user experiences.
+
+🧠 I am particularly interested in **Artificial Intelligence, Recommendation Systems, and Backend Architecture**. I enjoy learning how data and algorithms can be used to build smarter applications.
+
+🛠 **Technologies I work with:**
+
+* **Frontend / App Development:**  react, Flutter, HTML, CSS, JavaScript
+* **Backend Development:** Node.js, Express.js, FastAPI
+* **Databases:** MongoDB, MongoDB Atlas
+* **Programming Languages:** Python, Java
+* **Machine Learning:** Scikit-learn, Random Forest
+* **Tools & Technologies:** Git, GitHub, REST APIs, Postman
+
+📚 **Currently Learning**
+
+* Machine Learning systems and model deployment
+* Recommendation algorithms
+* Backend system design and API architecture
+* Building scalable full-stack applications
+
+🚧 **Projects I'm working on**
+
+* **Internship Recommendation System** — an AI-powered system that recommends internships to students based on their skills, CGPA, interests, and location preferences.
+* Exploring **AI-powered applications** and intelligent tools that help users make better decisions.
+
+
+📫 **Contact**
+* Email: **[dipeshkewat.m@gmail.com](mailto:dipeshkewat.tech@gmail.com)**
+
+
 
 
 
